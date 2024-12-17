@@ -15,14 +15,14 @@
 # in the templates via \{\{ site.myvariable \}\}.
 title: "Stat 205a: Probability Theory"
 tagline: Course Overview
-description: "The course is designed as a sequence with Statistics C205B/Mathematics C218B with the following combined syllabus. Measure theory concepts needed for probability. Expection, distributions. Laws of large numbers and central limit theorems for independent random variables. Characteristic function methods. Conditional expectations, martingales and martingale convergence theorems. Markov chains. Stationary processes. Brownian motion. "
-author: SCF
+description: "Measure theory concepts needed for probability. Expectation, distributions. Laws of large numbers and central limit theorems for independent random variables. Characteristic function methods. Conditional expectations; martingales and theory convergence. Markov chains. Stationary processes. "
+author: "SCF"
 baseurl: '' # the subpath of your site, e.g. /blog
 url: 'https://stat205a.berkeley.edu'
 exclude: ["Gemfile", "Gemfile.lock", "LICENSE"]
-logo: 'resources/stat_bear.png'
+logo: 'resources/logo.png'
 
-ga_tracking: G-CBJ61F1891
+ga_tracking: "G-"
 
 # Theme settings
 remote_theme: just-the-docs/just-the-docs@v0.7.0

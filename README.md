@@ -15,15 +15,16 @@ UC Berkeley
 
 
 
-[//]: # ## Offerings
+## Offerings
 
 [//]: # 1. [Fall 2024](fall-2024)
 
 
 
+
 ## Overview
 
-The course is designed as a sequence with Statistics C205B/Mathematics C218B with the following combined syllabus. Measure theory concepts needed for probability. Expection, distributions. Laws of large numbers and central limit theorems for independent random variables. Characteristic function methods. Conditional expectations, martingales and martingale convergence theorems. Markov chains. Stationary processes. Brownian motion. 
+Measure theory concepts needed for probability. Expectation, distributions. Laws of large numbers and central limit theorems for independent random variables. Characteristic function methods. Conditional expectations; martingales and theory convergence. Markov chains. Stationary processes. 
 
 ## Logistics
 
@@ -31,4 +32,4 @@ Three hours of Lecture per week for 15 weeks.
 
 ## Prerequisites
 
-
+Some knowledge of real analysis and metric spaces, including compactness, Riemann integral. Knowledge of Lebesgue integral and/or elementary probability is helpful, but not essential, given otherwise strong mathematical background. 
